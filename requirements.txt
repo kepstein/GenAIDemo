@@ -1,0 +1,4 @@
+boto3==1.26.137
+huggingface-hub==0.16.4
+openai==0.27.8
+sagemaker==2.178.0
